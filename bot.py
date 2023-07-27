@@ -1,7 +1,7 @@
 import logging
-import types
 
-from aiogram import Bot, Dispatcher, executor
+
+from aiogram import Bot, Dispatcher, executor, types
 API_TOKEN = '6141553139:AAFwM5w7NEFv7sBvQ4y2dJ4vVvEkzu7JqMQ'
 
 
